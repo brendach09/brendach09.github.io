@@ -1230,6 +1230,7 @@ a.hire-btn:hover{
 }
 .service-box{
     padding-bottom: 10px;
+    min-height: 15em;
 }
 .left-service .service-icon{
     float: right;
@@ -1245,6 +1246,7 @@ a.hire-btn:hover{
 }
 .left-service .service-content{
     text-align: right;
+    margin-right: 7em;
 }
 .right-service .service-icon{
     float: left;
@@ -1260,6 +1262,7 @@ a.hire-btn:hover{
 }
 .right-service .service-content{
     text-align: left;
+    margin-left: 7em;
 }
 .service-content h3{
     color: #2c3d4f;
